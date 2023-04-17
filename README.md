@@ -14,4 +14,5 @@ This language has all of the usual Brainfuck commands, as well as a few more, bo
 * **# displays the first ten rows of the matrix**
 * **! reads and interpret the contents of a file**
 * **& dumps the outputs of the code to a file**
-It adds I/O and 2-D arrays on top of the functionalities of basic Brainfuck.
+
+Headfuck adds I/O and 2-D arrays on top of the functionalities of basic Brainfuck.
