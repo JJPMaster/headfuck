@@ -1,4 +1,4 @@
-# headfuck
+# Headfuck
 A Brainfuck-like esoteric programming language based on matrices.
 This language has all of the usual Brainfuck commands, as well as a few more, bolded below:
 * \> moves forward in an array
